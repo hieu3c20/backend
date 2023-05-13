@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "slugify": "^1.6.5"
+  }
+}

@@ -1,0 +1,11 @@
+Construct a java program manage movies at a cinema.
+*   1 movie include 5 property: name of movie, year of manufacturer, label of manufacturer, ticket price, premiere day.
+*   label of manufacturer include: name of label, national.
+*   Premier day include: day, month, year.
+
+*requirements:
+a)  Check if ticket price of arbitrary movie is cheaper than ticket price of other movie?
+b)  Print name of label of manufacturer.
+c)  Print ticket price after sell.
+
+*Note: Write Test class to check constructor and other methods.
